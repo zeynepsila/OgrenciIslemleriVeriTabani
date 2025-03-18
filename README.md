@@ -1,2 +1,2 @@
-﻿# OgrenciIslemleriVeriTabani
-veri tabanı lab dersi için yaptığım öğrenci, ders ekleme silme ve öğrenciye ders atama vb gibi çeşitli işlemleri arayüz ile yapılmasını sağlayan projem
+﻿# Student and Course Management System
+Developed a desktop application for the Database Lab course to manage student and course information. The system provides a user-friendly interface enabling the addition, deletion, and updating of student/course records and assigning courses to students. Implemented effective data storage and management using a MySQL database.
